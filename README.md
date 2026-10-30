@@ -42,7 +42,7 @@ The new sample `[5.1, 3.5, 1.4, 0.2]` is predicted as **setosa**.
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/iris-classification-logreg-knn.git
+git clone https://github.com/junaidmemon1/iris-classification-logreg-knn.git
 cd iris-classification-logreg-knn
 pip install -r requirements.txt
 jupyter notebook 2312226_JunaidMemon_A01.ipynb
